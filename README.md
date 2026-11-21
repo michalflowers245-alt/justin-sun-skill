@@ -22,7 +22,7 @@
 | `posts/` | X 抽样 |
 
 ## License
-MIT
+MIT 许可仅覆盖本项目原创 Skill 框架和原创分析；原帖、文章、访谈、转写、引文、图片和标志不包含在许可范围。详见 [LICENSE-SCOPE.md](LICENSE-SCOPE.md)。
 
 ## Disclaimer
 Not financial, legal, or investment advice. Quotes and ASR paraphrases may be incomplete; verify against original sources.
